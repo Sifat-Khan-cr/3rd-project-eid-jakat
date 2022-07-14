@@ -73,3 +73,28 @@ button {
 .sec-2 {
     display: flex;
 }
+
+.sec-3 {
+    display: flex;
+}
+
+.sec-3-image {
+    height: 477px;
+    width: 456px;
+    background-image: url(./images/duya.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 200px;
+    margin-top: 200px;
+
+}
+
+.sec-3-text {
+
+    width: 526px;
+    padding-top: 200px;
+    padding-right: 200px;
+    margin-left: 200px;
+
+}
