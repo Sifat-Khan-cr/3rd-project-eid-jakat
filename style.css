@@ -1,0 +1,45 @@
+body {
+    font-family: 'Inter', sans-serif;
+
+}
+
+h1 {
+    font-size: 55px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+h2 {
+    font-size: 45px;
+    font-weight: bold;
+    color: #121212;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #121212;
+}
+
+p {
+    font-size: 18px;
+    font-weight: normal;
+    color: #707070;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Khubaibul Islam Shakib background: linear-gradient(rgba(182, 128, 128, 0.6), rgba(192, 157, 157, 0.3)),
+url(./top-banner.png);
+Apnar moto customize kore niben.
