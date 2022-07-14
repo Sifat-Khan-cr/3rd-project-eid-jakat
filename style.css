@@ -132,3 +132,36 @@ button {
     display: flex;
     justify-content: center;
 }
+
+.sec-5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.sec-5-image {
+    height: 391px;
+    width: 364px;
+    background-image: url(./images/sun.png);
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+}
+
+footer {
+    background-color: #0B0D17;
+    text-align: center;
+    height: 177px;
+    width: 100%;
+    padding-top: 50px;
+}
+
+#foot-title {
+    color: #EF233C;
+}
+
+#foot-text {
+    color: white;
+    margin-top: 5px;
+}
